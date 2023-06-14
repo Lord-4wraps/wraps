@@ -1,0 +1,65 @@
+Our Services?
+As you begin to explore a possible career in web development, you might wonder what a front end developer does.
+
+Simply put, we focus on a website’s visitor-facing aspects; as opposed to a back end developer, who focuses on behind the scenes work; or a full stack developer who works on both sides.
+
+Their Responsibilities and Skills Go Hand in Hand
+Many actions a developer performs daily require skills like JavaScript or HTML coding, with a great deal of overlap in their day-to-day responsibilities. In this tutorial, we will explain the various tools and technologies these professionals use in their everyday work, as well as the skills needed to be successful in the field.
+
+What a Front End Developer Does: An Overview
+A front end developer has one general responsibility: to ensure that website visitors can easily interact with the page. They do this through the combination of design, technology and programming to code a website’s appearance, as well as taking care of debugging. Whenever you visit a website, anything that you see, click on or otherwise use is the work of a front end developer.
+
+Common Tasks of a Front End Developer
+Although there is some variation across companies, you can generally expect a front end developer role to include some or all of the following: 
+
+Optimizing the user experience.
+Using HTML, JavaScript and CSS to bring concepts to life.
+Developing and maintaining the user interface.
+Implementing design on mobile websites.
+Creating tools that improve site interaction regardless of the browser.
+Managing software workflow.
+Following SEO best practices.
+Fixing bugs and testing for usability.
+Front End Development: Commonly Used Programming Languages
+Most front end developers spend a great deal of their time working in HTML, CSS and JavaScript, making proficiency in each key to their success.
+
+How Developers Use Each Programming Language
+Front end developers use HTML to lay out a document’s general structure and content, CSS for styling and JavaScript for situations that require advanced interactivity. Additionally, they might use AJAX (a combination of JavaScript and XML) to update specific areas of a website without having to refresh the entire page.
+
+Libraries and Frameworks
+Front end developers also commonly use the libraries built on these programming languages like AngularJS, jQuery and React; and design frameworks including Foundation and Bootstrap. CSS extensions, such as SASS, provide improved modularity and power.
+
+Additional Front End Development Languages
+While they are less common, front end developers may also use Python, Ruby or PHP to easily connect data with the back end of their website.
+
+Common Tools Used in Front End Development
+Because front end developers use a combination of design and web development in their work, the tools they use span across these areas of focus.
+
+Graphic Design Tools
+Before a front end developer begins coding, they typically use graphic design tools to create a prototype of their website, which lets them test and experiment with the user interface before working out the actual code.
+
+Depending on the team size team and project scope, the process might be as simple as using a pencil and paper, or it might require graphics editing programs like Sketch or Photoshop, prototyping tools like Balsmiq Mockups or more advanced graphical editing tools such as Figma or Illustrator.
+
+Code Editing Tools
+A code editing tool is simply the program a front end developer chooses to use to write the code for their website. Some developers prefer to use a lightweight editor like Notepad, while others opt for something more feature-rich like Visual Studio or Eclipse.
+
+Before you decide on a code editor, try out a few different ones to see which one you work with best.
+
+More Skills for Front End Development
+Of course, front end developers do more than design and code a website’s look and feel. Below, we’ll cover some of the more common additional skills these professionals rely on in their work.
+
+Using CSS Preprocessors
+Most front end developers use CSS preprocessors to add functionality to CSS coding, making it more scalable and easier to interact with. Prior to publishing the code on your website, CSS preprocessors transition it into well-formatted CSS that works across a variety of browsers, the most in-demand being LESS and SASS. 
+
+Using APIs and RESTful Services
+A front end developer will also interact with and make use of APIs and RESTful services. REST (Representational State Transfer) is a lightweight architecture that makes network communications simpler, while APIs and RESTful services follow that architecture. 
+
+Creating Maintaining Mobile and Responsive Design
+With the rise of people using mobile devices to connect to the internet, it has become essential for websites to be mobile-friendly. As such, most front end developers now create responsive designs or mobile designs for their websites. 
+
+Responsive design changes a website’s layout depending on the device and screen size, and occasionally requiring changes to the content and functionality based on those factors. 
+
+Developing Across Browsers
+If your web development isn’t functional across the full range of browsers that are available today, you will miss out on an entire category of potential web users. While browsers are fairly consistent, their differences can be significant, including in terms of coding interpretation. A front end web developer must understand these differences and incorporate them into their code. 
+
+As with all aspects of web development, becoming a front end developer requires you to learn and hone your skills. Enrolling in a San Francisco web developer bootcamp is a great way to get started.
